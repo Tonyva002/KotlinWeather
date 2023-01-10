@@ -4,6 +4,16 @@
 
 This application allows you to see the weather of different cities. It consumes a weather API showing the information according to the selected city.
 
+### Links
+📌 Live site URL: [here](https://github.com/Tonyva002/KotlinWeather)
+
+### Built with
+
+- Kotlin
+- Android
+- Volley
+- Gson
+
 ### Necessary tool:
 
 Install Android Studio.
